@@ -1,9 +1,13 @@
-## Projeto de Carrinho de Compras Online - Trabalho em Duplas
+## 🛒 Projeto de Carrinho de Compras Online - Trabalho em Duplas
 
 <img src="https://github.com/user-attachments/assets/e31dac5c-0b37-4c8b-bf29-8e5af4fb0f44" alt="Post Instagram Pagamento Pix Desconto Simples Azul" width="300">
 
 
-Neste projeto, vocês (como clientes potenciais) irão simular um carrinho de compras online onde poderão adicionar produtos, visualizar uma lista detalhada dos itens selecionados, calcular o subtotal de cada produto e ver o valor total da compra. O objetivo é permitir que os usuários tomem decisões de compra mais informadas e organizem melhor seu orçamento antes de finalizar a transação.
+## 📋 Descrição do Projeto
+Neste projeto, você irá simular um sistema de e-commerce onde os clientes poderão adicionar produtos ao carrinho, visualizar uma lista detalhada dos itens selecionados, calcular o subtotal de cada produto e ver o valor total da compra.
+
+Diferente de um sistema totalmente aberto, os produtos e preços já estão pré-definidos, e o cliente apenas seleciona qual produto deseja adicionar ao carrinho. O sistema também oferece uma confirmação para o cliente sobre a adição dos itens ao carrinho.
+
 
 ## 🧑‍🤝‍🧑 Trabalho em Dupla
 Esse projeto será desenvolvido em dupla, o que significa que vocês deverão colaborar para:
@@ -13,17 +17,84 @@ Dividir as responsabilidades: Uma pessoa pode se concentrar em uma parte especí
 
 ## 🎯 Objetivos de Aprendizagem
 
-### JavaScript:
-- Uso de `alert()` para exibir mensagens para o usuário.
-- Manipulação de entradas com `prompt()` para receber dados do usuário.
-- Uso de variáveis e constantes para armazenar e manipular dados.
-- Realizar cálculos básicos, como somar o subtotal dos produtos e o valor total da compra.
+Este projeto ajudará você a praticar os seguintes conceitos:
+
+#### Interação com o Usuário via prompt() e alert():
+
+- Captura da escolha do cliente com prompt().
+- Confirmação de ações com confirm().
+- Exibição de resultados com alert().
+
+
+#### Manipulação de Arrays e Objetos:
+- Os produtos são armazenados como objetos em um array pré-definido.
+- O carrinho de compras também é um array de objetos, permitindo fácil manipulação e cálculos.
+
+
+#### Cálculos Simples:
+
+- Cálculo do subtotal de cada item (quantidade × preço).
+- Soma do total da compra, considerando todos os itens no carrinho.
 
 ## ✅ Critérios de Aceitação
-- **Adicionar produtos ao carrinho**: O cliente pode adicionar produtos ao carrinho informando o nome, preço e quantidade de cada item usando o `prompt()`.
-- **Visualizar produtos no carrinho**: O cliente pode visualizar os produtos adicionados, incluindo nome, preço unitário, quantidade e o subtotal de cada item usando o `alert()`.
-- **Calcular o valor total da compra**: O cliente pode visualizar o valor total da compra, calculado somando os subtotais de todos os itens no carrinho, também utilizando o `alert()`.
-- **Trabalhar com objetos e arrays**: Armazenar os produtos como objetos dentro de um array para melhor organização.
+
+
+Para que o projeto seja considerado completo, ele deve atender aos seguintes requisitos:
+
+#### 1.Seleção de Produtos:
+
+- O cliente pode escolher entre produtos pré-definidos.
+- O sistema exibirá o preço do produto selecionado.
+- O cliente será solicitado a confirmar se deseja adicionar o produto ao carrinho.
+
+#### 2.Visualização do Carrinho:
+
+- O cliente poderá visualizar todos os produtos no carrinho, com detalhes como nome, preço, quantidade e subtotal.
+
+
+- O valor total da compra será exibido.
+
+
+#### 4.Cálculo do Total:
+
+- O sistema calculará o subtotal de cada produto (preço × quantidade) e o valor total de todos os itens no carrinho.
+
+#### 5.Uso de Objetos e Arrays:
+
+- Os produtos disponíveis e os produtos no carrinho serão armazenados em objetos.
+- O carrinho será representado por um array de objetos.
+
+
+## 🛠 Funcionalidades
+#####1. Adicionar Produtos ao Carrinho:
+- O cliente pode adicionar produtos pré-definidos ao carrinho.
+
+~~~javascript
+O sistema solicitará ao cliente, via prompt(), que escolha um produto entre os disponíveis.
+~~~
+
+
+- Os produtos disponíveis são:
+~~~javascript
+Camisa: R$ 50,00
+Calça: R$ 100,00
+Sapato: R$ 150,00
+Boné: R$ 25,00
+~~~
+
+
+Após a escolha do produto, o sistema exibirá o preço e perguntará se o cliente deseja confirmar a adição ao carrinho e a quantidade de produtos.
+
+
+2. Visualizar o Carrinho de Compras:
+- O cliente poderá visualizar a lista de produtos adicionados ao carrinho.
+- O sistema exibirá, via `alert()`, os detalhes do carrinho, incluindo o nome do produto, preço unitário, quantidade e subtotal (preço × quantidade).
+- Além disso, o valor total da compra será exibido no final.
+
+
+3. Calcular o Total da Compra:
+O sistema calculará automaticamente o valor total da compra, somando todos os subtotais dos produtos adicionados ao carrinho.
+
 
 ## 💡 Dica
 - Usar objetos no JavaScript ajuda a estruturar melhor os dados do produto (nome, preço, quantidade, subtotal). Além disso, armazenar os objetos em um array permite uma fácil manipulação e visualização dos itens do carrinho.
