@@ -25,9 +25,9 @@ Este projeto ajudará você a praticar os seguintes conceitos:
 
 #### Interação com o Usuário via prompt() e alert():
 
-- Captura da escolha do cliente com prompt().
-- Confirmação de ações com confirm().
-- Exibição de resultados com alert().
+- Captura da escolha do cliente com `prompt()`.
+- Confirmação de ações com `confirm()`.
+- Exibição de resultados com `alert()`.
 
 
 #### Manipulação de Arrays e Objetos:
@@ -74,7 +74,7 @@ Para que o projeto seja considerado completo, ele deve atender aos seguintes req
 - O cliente pode adicionar produtos pré-definidos ao carrinho.
 
 ~~~javascript
-O sistema solicitará ao cliente, via prompt(), que escolha um produto entre os disponíveis.
+O sistema solicitará ao cliente, via `prompt()`, que escolha um produto entre os disponíveis.
 ~~~
 
 
