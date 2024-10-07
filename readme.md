@@ -19,15 +19,18 @@ Esse projeto será desenvolvido em dupla, o que significa que vocês deverão co
 Organizar o fluxo de trabalho: Um bom uso do Git para versionamento do código e organização de branches será essencial.
 Dividir as responsabilidades: Uma pessoa pode se concentrar em uma parte específica do código (por exemplo, a funcionalidade de adicionar produtos) enquanto a outra pode se focar na lógica de cálculo ou na exibição de dados.
 
+[Planilha para inserir as duplas](https://docs.google.com/spreadsheets/d/1aJoidFUJjLwzHmey7xvdOYJFz_Qf-_r6Wu9fHzB1qrU/edit?usp=sharing)  
+
+
 ## 🎯 Objetivos de Aprendizagem
 
 Este projeto ajudará você a praticar os seguintes conceitos:
 
-#### Interação com o Usuário via prompt() e alert():
+#### Interação com o Usuário via `prompt()` e `alert()`:
 
-- Captura da escolha do cliente com prompt().
-- Confirmação de ações com confirm().
-- Exibição de resultados com alert().
+- Captura da escolha do cliente com `prompt()`.
+- Confirmação de ações com `confirm()`.
+- Exibição de resultados com `alert()`.
 
 
 #### Manipulação de Arrays e Objetos:
@@ -74,7 +77,7 @@ Para que o projeto seja considerado completo, ele deve atender aos seguintes req
 - O cliente pode adicionar produtos pré-definidos ao carrinho.
 
 ~~~javascript
-O sistema solicitará ao cliente, via prompt(), que escolha um produto entre os disponíveis.
+O sistema solicitará ao cliente, via `prompt()`, que escolha um produto entre os disponíveis.
 ~~~
 
 
@@ -131,7 +134,7 @@ console.log(carrinho); // ['Camiseta']
  
 #### Como forkar?
 
-Como fazer um  fork: [https://github.com/campinho-digital/Como-fazer-um-Fork](https://github.com/campinho-digital/Como-fazer-um-Fork)  
+[Como fazer um fork](https://github.com/campinho-digital/Como-fazer-um-Fork)  
 
 
 ### 2. Após o Fork
