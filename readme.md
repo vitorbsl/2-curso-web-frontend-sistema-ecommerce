@@ -1,9 +1,15 @@
-## Semana 5 
+## Projeto de Carrinho de Compras Online - Trabalho em Duplas
 
-<img src="https://github.com/user-attachments/assets/7cfd5a5e-017a-4d99-a7c5-ec87989c879a" alt="Post Instagram Pagamento Pix Desconto Simples Azul" width="300">
+<img src="https://github.com/user-attachments/assets/e31dac5c-0b37-4c8b-bf29-8e5af4fb0f44" alt="Post Instagram Pagamento Pix Desconto Simples Azul" width="300">
 
-Como cliente em potencial que deseja realizar compras online, gostaria de simular um carrinho de compras onde posso adicionar produtos, visualizar uma lista detalhada dos itens selecionados, calcular o subtotal de cada produto e ver o valor total da compra. Dessa forma, posso tomar decisões de compra mais informadas e organizar melhor meu orçamento antes de finalizar a transação.
 
+Neste projeto, vocês (como clientes potenciais) irão simular um carrinho de compras online onde poderão adicionar produtos, visualizar uma lista detalhada dos itens selecionados, calcular o subtotal de cada produto e ver o valor total da compra. O objetivo é permitir que os usuários tomem decisões de compra mais informadas e organizem melhor seu orçamento antes de finalizar a transação.
+
+## 🧑‍🤝‍🧑 Trabalho em Dupla
+Esse projeto será desenvolvido em dupla, o que significa que vocês deverão colaborar para:
+
+Organizar o fluxo de trabalho: Um bom uso do Git para versionamento do código e organização de branches será essencial.
+Dividir as responsabilidades: Uma pessoa pode se concentrar em uma parte específica do código (por exemplo, a funcionalidade de adicionar produtos) enquanto a outra pode se focar na lógica de cálculo ou na exibição de dados.
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -154,6 +160,9 @@ Você deve enviar o link do repositório com as questões respondidas para o Moo
 
 [If and Else](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/if...else)
 
+[O prompt](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
+
+[O alert](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)
 
 ### 🎯  Hacker Edition:
 
