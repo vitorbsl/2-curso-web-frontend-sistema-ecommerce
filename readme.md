@@ -23,7 +23,7 @@ Dividir as responsabilidades: Uma pessoa pode se concentrar em uma parte especí
 
 Este projeto ajudará você a praticar os seguintes conceitos:
 
-#### Interação com o Usuário via prompt() e alert():
+#### Interação com o Usuário via `prompt()` e `alert()`:
 
 - Captura da escolha do cliente com `prompt()`.
 - Confirmação de ações com `confirm()`.
