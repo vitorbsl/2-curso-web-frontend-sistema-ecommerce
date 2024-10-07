@@ -131,7 +131,7 @@ console.log(carrinho); // ['Camiseta']
  
 #### Como forkar?
 
-Como fazer um  fork: [https://github.com/campinho-digital/Como-fazer-um-Fork](https://github.com/campinho-digital/Como-fazer-um-Fork)  
+[Como fazer um fork](https://github.com/campinho-digital/Como-fazer-um-Fork)  
 
 
 ### 2. Após o Fork
