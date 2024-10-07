@@ -161,5 +161,5 @@ Se você se sente confortável com o que já foi implementado no carrinho de com
 - Usar Testes Unitários para verificar se as funções estão retornando os valores esperados.
 - Utilizar uma biblioteca de testes como Jest (ou outra de sua escolha) para criar e rodar os testes.
 
-**Boa sorte e bom código!** 🚀📘
+## **Boa sorte e bom código!** 🚀📘
 
