@@ -19,6 +19,9 @@ Esse projeto será desenvolvido em dupla, o que significa que vocês deverão co
 Organizar o fluxo de trabalho: Um bom uso do Git para versionamento do código e organização de branches será essencial.
 Dividir as responsabilidades: Uma pessoa pode se concentrar em uma parte específica do código (por exemplo, a funcionalidade de adicionar produtos) enquanto a outra pode se focar na lógica de cálculo ou na exibição de dados.
 
+[Planilha para inserir as duplas](https://docs.google.com/spreadsheets/d/1aJoidFUJjLwzHmey7xvdOYJFz_Qf-_r6Wu9fHzB1qrU/edit?usp=sharing)  
+
+
 ## 🎯 Objetivos de Aprendizagem
 
 Este projeto ajudará você a praticar os seguintes conceitos:
