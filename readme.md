@@ -20,12 +20,10 @@ Como cliente em potencial que deseja realizar compras online, gostaria de simula
 - **Trabalhar com objetos e arrays**: Armazenar os produtos como objetos dentro de um array para melhor organização.
 
 ## 💡 Dica
-Usar objetos no JavaScript ajuda a estruturar melhor os dados do produto (nome, preço, quantidade, subtotal). Além disso, armazenar os objetos em um array permite uma fácil manipulação e visualização dos itens do carrinho.
+- Usar objetos no JavaScript ajuda a estruturar melhor os dados do produto (nome, preço, quantidade, subtotal). Além disso, armazenar os objetos em um array permite uma fácil manipulação e visualização dos itens do carrinho.
 
-O seu código já está devidamente linkado com o arquivo `JavaScript` no `HTML`, o que significa que você não precisa se preocupar com a integração entre os arquivos. Toda a lógica que você desenvolver será automaticamente conectada ao `HTML`.
-
+- O seu código já está devidamente linkado com o arquivo `JavaScript` no `HTML`, o que significa que você não precisa se preocupar com a integração entre os arquivos. Toda a lógica que você desenvolver será automaticamente conectada ao `HTML`.
 Tudo o que você precisa fazer agora é implementar a solução diretamente no arquivo `index.js`. Esse arquivo já está preparado para receber seu código, e ao salvá-lo, as funcionalidades estarão ativas e prontas para rodar no navegador.
-
 Agora é só focar no desenvolvimento da funcionalidade, como adicionar produtos ao carrinho, calcular o subtotal, visualizar os produtos e calcular o valor total da compra!
 
 ### Git e GitHub:
