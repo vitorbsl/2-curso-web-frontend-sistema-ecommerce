@@ -107,6 +107,18 @@ O sistema calculará automaticamente o valor total da compra, somando todos os s
 Tudo o que você precisa fazer agora é implementar a solução diretamente no arquivo `index.js`. Esse arquivo já está preparado para receber seu código, e ao salvá-lo, as funcionalidades estarão ativas e prontas para rodar no navegador.
 Agora é só focar no desenvolvimento da funcionalidade, como adicionar produtos ao carrinho, calcular o subtotal, visualizar os produtos e calcular o valor total da compra!
 
+- O método `push()` é uma das principais ferramentas para trabalhar com arrays em JavaScript. Ele permite adicionar novos elementos ao final de um array. Quando você utiliza `push()` para incluir objetos (produtos) em um array, isso facilita a manipulação dos dados de maneira dinâmica, como no caso de adicionar produtos ao carrinho.
+
+Exemplo:
+~~~javascript
+let carrinho = []; // Inicializando o array vazio do carrinho
+
+carrinho.push('Camiseta'); // Adicionando um item ao carrinho
+console.log(carrinho); // ['Camiseta']
+
+~~~
+
+
 ### Git e GitHub:
 - Uso de comandos do Git: `git add`, `git commit`, `git pull`, `git push`.
 - Gerenciamento de repositórios no GitHub (clone e fork).
