@@ -66,7 +66,7 @@ Para que o projeto seja considerado completo, ele deve atender aos seguintes req
 
 
 ## 🛠 Funcionalidades
-#####1. Adicionar Produtos ao Carrinho:
+##### 1. Adicionar Produtos ao Carrinho:
 - O cliente pode adicionar produtos pré-definidos ao carrinho.
 
 ~~~javascript
