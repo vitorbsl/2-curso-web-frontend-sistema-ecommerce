@@ -9,6 +9,10 @@ Neste projeto, você irá simular um sistema de e-commerce onde os clientes pode
 Diferente de um sistema totalmente aberto, os produtos e preços já estão pré-definidos, e o cliente apenas seleciona qual produto deseja adicionar ao carrinho. O sistema também oferece uma confirmação para o cliente sobre a adição dos itens ao carrinho.
 
 
+https://github.com/user-attachments/assets/5154b443-110d-4f13-abc8-a73834398c63
+
+
+
 ## 🧑‍🤝‍🧑 Trabalho em Dupla
 Esse projeto será desenvolvido em dupla, o que significa que vocês deverão colaborar para:
 
